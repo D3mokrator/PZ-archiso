@@ -1,0 +1,15 @@
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+base
+base-devel
+linux
+mkinitcpio
+mkinitcpio-archiso
+syslinux
+vim
+gcc
+zsh
+xorg
+gnome
+xfce4
+xorg

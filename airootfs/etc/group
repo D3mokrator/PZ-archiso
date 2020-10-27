@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:obi-wan-kenobi
+wheel:x:10:obi-wan-kenobi
+uucp:x:14:obi-wan-kenobi
+obi-wan-kenobi:x:1000:
